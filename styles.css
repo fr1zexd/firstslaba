@@ -1,0 +1,92 @@
+p {
+        font-family:  "Arial Black";
+         }
+h1 {
+        font-family:  "Arial Black"; 
+        }
+h2 {
+        font-family:  "Arial Black"; 
+        }
+h3 {
+        font-family:  "Arial Black"; 
+        }
+h4 {
+        font-family:  "Arial Black"; 
+        }
+dl {
+        font-family:  "Arial Black"; 
+        }
+.hrclass {
+        color: rgb(0, 0, 0); 
+        background-color: rgb(0, 0, 0); 
+        height: 5px;
+        margin: 15px;  
+       }
+marquee {
+        font-family:  "Arial Black";
+         }
+body {
+        height: 100%;
+        }
+.wrapper{
+        min-height: 100%;
+        display:flex;
+        flex-direction: column;
+        }
+.main {
+        flex: 1 1 auto;
+        font-size: 9vw;
+        }
+footer {
+        position: static        ;
+        left: 0; bottom: 0;
+        padding: 10px;
+        background: #000000;
+        width: 100%;
+        flex: 0 0 auto;
+        }
+.footertext {
+        font-family: courier; font-size:14px;line-height:18px;color:#FFFFFF;text-align: center; margin: 6px;
+        }
+.fig {
+        text-align: center; margin-bottom: 1px;
+        }
+.paragraph {
+        font-family: courier; font-size:16px;line-height:26px;color:#000000;text-align: center;margin: 1px; 
+        }
+.hodin {
+        font-size: 64px; color: #000000;text-align: center; margin: 1px; 
+        }
+.hdva {
+        font-size:34px;text-align: center; font-family: courier;
+        }
+.htri {
+        font-size: 26px; text-align: center;font-family: courier; margin: 14px;
+        }
+.hchetiri {
+        font-size: 23px;color:#000000;text-align: center;font-family: courier; margin: 14px; 
+        }
+.inputtextarea {
+        box-sizing: border-box;border-radius: 10px;text-align: center;  font-family: courier;
+        }
+.knopkasubmit {
+        border-radius: 10px;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #FFFFFF;
+        text-transform: uppercase;text-align: center;
+        }
+.razmertext{color:#000000;font-family: courier; font-size:16px;line-height:26px;}
+img { 
+        width:500px; text-align: center; 
+}
+.footerlogo{
+        width:60px; 
+        text-align: center;
+        }
+.imggalereya{
+        width:400px;
+        text-align: center;
+        }
